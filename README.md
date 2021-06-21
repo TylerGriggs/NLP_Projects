@@ -6,7 +6,7 @@ Many of the Python scripts involve command line arguments to read text files or 
 Projects inspired by Introduction to Natural Language Processing coursework.
 ##
 ### Eliza Chatbot
-A simple Rogerian psychotherapist chatbot designed to technically satisfy the Turing Test. Using the words provided in the user's answer, the chatbot can provide a feasible response as long as the user follow's the "game's" rules.
+A simple Rogerian psychotherapist chatbot designed to technically satisfy the Turing Test. Using the words provided in the user's answer, the chatbot can provide a feasible response as long as the user follows the "game's" rules.
 ##
 ### N-gram Predictive Text
 Generates brand new sentences after reading a book or books, provided to it as text files. Based on the words used in the books, a number of words used before each word, the program is able the generate a number of sentences. Using the probabilities of words with previous words the program can choose a potential next word, or conclude the sentence with punctuation.
