@@ -22,6 +22,7 @@ My Algorithm to accomplish this searches the USER input for a number of
     the IF statements occur). When no word groups are caught, the USER's message
     is sent to reformat() to substitute words in the sentence, in that function
     if no words are substituted, ELIZA's response will be a random neutral 
+    question to clarify further. The fired responses are often sent to 
     randomize_response() to concatenate a neutral message before or after the
     calculated response.
     
