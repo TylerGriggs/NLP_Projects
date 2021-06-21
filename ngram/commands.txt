@@ -1,0 +1,24 @@
+****
+THESE TEXT DOCUMENTS ARE FREE WORKS OFFERED BY https://www.gutenberg.org/ 
+****
+
+1 10 pg1399.txt pg2554.txt pg2600.txt
+2 10 pg1399.txt pg2554.txt pg2600.txt
+3 10 pg1399.txt pg2554.txt pg2600.txt
+4 10 pg1399.txt pg2554.txt pg2600.txt
+5 10 pg1399.txt pg2554.txt pg2600.txt
+6 10 pg1399.txt pg2554.txt pg2600.txt
+7 10 pg1399.txt pg2554.txt pg2600.txt
+8 10 pg1399.txt pg2554.txt pg2600.txt
+9 10 pg1399.txt pg2554.txt pg2600.txt
+10 10 pg1399.txt pg2554.txt pg2600.txt
+11 10 pg1399.txt pg2554.txt pg2600.txt
+12 10 pg1399.txt pg2554.txt pg2600.txt
+15 10 pg1399.txt pg2554.txt pg2600.txt
+20 10 pg1399.txt pg2554.txt pg2600.txt
+
+3 10 pg1399.txt pg2554.txt pg2600.txt 16-0.txt 35-0.txt 36-0.txt 43-0.txt 74-0.txt 76-0.txt 84-0.txt
+
+5 10 output.txt nsrv.txt pg1399.txt pg2554.txt pg2600.txt
+4 10 nsrv.txt pg1399.txt pg2554.txt pg2600.txt
+3 10 nsrv.txt pg1399.txt pg2554.txt pg2600.txt

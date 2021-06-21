@@ -1,0 +1,3 @@
+python sentiment.py sentiment-train.txt sentiment-test.txt my-model.txt > my-sentiment-answers.txt
+
+python scorer.py my-sentiment-answers.txt sentiment-test-key.txt
